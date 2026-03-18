@@ -1,6 +1,6 @@
 # API Emendas Parlamentares Monitor
 
-Script em Python para coletar dados de emendas parlamentares informadas publicamente via API. Filtrar por palavra-chave na funlção da ementa parlamentar (opcional) e gerar relatórios em CSV filtrados por esta palavra-chave.
+Script em Python para coletar dados de emendas parlamentares informadas publicamente via API. Filtrar por palavra-chave na função da ementa parlamentar (opcional) e gerar relatórios em CSV filtrados por esta palavra-chave.
 
 ## 💡 Motivação
 
