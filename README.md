@@ -45,19 +45,12 @@ Opções:
 
 ## 📄 Saída
 
-Gera um arquivo `emendas_<funcao>.csv` no diretório atual com os campos:
+Gera um arquivo `emendas_<funcao>.csv` no diretório atual como exemplificado abaixo:
 
-- `codigoEmenda`
-- `ano`
-- `autor`
-- `numeroEmenda`
-- `localidadeDoGasto`
-- `funcao`
-- `subfuncao`
-- `valorEmpenhado`
-- `valorLiquidado`
-- `valorEmpenhado`
-- `valorPago`
+| codigoEmenda | ano  | autor            | numeroEmenda | localidadeDoGasto | funcao | subfuncao                              | valorEmpenhado | valorLiquidado | valorPago   |
+|-------------|------|------------------|---------------|-------------------|--------|----------------------------------------|----------------|----------------|-------------|
+| 202440340007 | 2024 | NOME PARLAMENTAR FULANA | 0007          | PARANÁ (UF)       | Saúde  | Assistência hospitalar e ambulatorial | 10.000,00      | 10.000,00      | 10.000,00   |
+
 
 ## 🛠️ Requisitos
 
